@@ -1,1 +1,0 @@
-{"rustc":16895609601713598366,"features":"[]","target":2032466922635078195,"profile":13126374248311259211,"path":10985968350096945822,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/halite-385fd5da22dc1b07/dep-bin-halite"}}],"rustflags":["-C","link-arg=--ld-path=/usr/bin/mold"],"metadata":1528600292328732534,"config":5168918392836922832,"compile_kind":0}
