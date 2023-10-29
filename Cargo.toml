@@ -1,0 +1,6 @@
+[workspace]
+resolver = "1"
+members = ["compiler/nai", "compiler/compiler", "tools/halite"]
+
+[workspace.package]
+authors = ["Farzin Ashraf <farzinashraf1000@gmail.com>"]
